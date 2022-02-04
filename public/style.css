@@ -1,0 +1,26 @@
+.login-main{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background: #ECECEC;
+    height: 100vh;
+}
+.textalign-center{
+    text-align: center;
+}
+.center{
+    justify-content: center;
+}
+.file{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.filetxt{
+    font-weight: 700;
+    width: 250px;
+}
+.modalImg{justify-content: center;
+    align-items: center;
+    display: flex;
+    margin: 10px;}
